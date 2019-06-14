@@ -19,7 +19,8 @@
             "keyword": "",
             "language": "English",
             "publishStatus": "Online",
-            "remoteTimeout": 30000
+            "remoteTimeout": 30000,
+            "typeFilter": ""
         },
         "label": "Set Up Your Account",
         "nextLabel": "Create Account",

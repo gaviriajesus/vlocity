@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account_BusinessSetUp</members>
+        <members>TRNG_MobileProdFilter</members>
+        <members>sampleUpdatePriContact</members>
         <name>DataRaptor</name>
     </types>
-    <types>
-        <members>Account Servicing_NewBusiness_English</members>
-        <name>OmniScript</name>
-    </types>
-    <version>45.0</version>
+    <version>49.0</version>
 </Package>
